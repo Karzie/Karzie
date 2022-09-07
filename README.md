@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Karzie
+- 👋 Hi, I’m @Axel
 - 👀 Mybf
 - 💞️ Digital art
-- 📫 メKarz#9999
+- 📫 Axel?!#9999
 
 <!---
 Karzie/Karzie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
